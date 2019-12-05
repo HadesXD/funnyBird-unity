@@ -9,7 +9,7 @@ Used:
   <li><b>Language:</b> C#</li>
   <li><b>Engine:</b> Unity</li>
   <li><b>IDE:</b> Visual Studio Code</li>
-  <li>Other Progams used: </li>
+  <li><b>Other Progams used: </b></li>
   <ul>
     <li>GIMP</li>
     <li>Retro</li>
